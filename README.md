@@ -24,7 +24,7 @@ A modern crossplatform elecron APP
   - \+ easy versioning with git
   - \- live compiling necessary on each start up possible bottelneck?
   - the files can be on your PC or in NDA protected network shares
-  - use the idea of [PeakRDL](https://github.com/SystemRDL/PeakRDL-html) enrich md into files
+  - use the idea of [PeakRDL](https://github.com/SystemRDL/PeakRDL-html) enriched md into files
 - Modular design of feature sets right from the start
   - Core functionality is the handling and managing of register descriptions
   - from hard drive / network share
@@ -40,4 +40,4 @@ A modern crossplatform elecron APP
   - logger interpreter 
     - to interpret bus data (i2c/SPI) and annotate to the log register descriptions
   - device specific GUIs (signal flow charts) which are user creatable and in cooperate register data
-  -  RDL file creator which parses PDF files interactifly (pdfplumber?) 
+  -  RDL file creator which parses PDF files interactively (pdfplumber?) 
