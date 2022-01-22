@@ -31,7 +31,8 @@ A modern crossplatform elecron APP
   - (future) from a repo server
 
 - basic core Modules 
-  - view and search description files
+  - view and search description files 
+  - I really like the register output of [wavedrom](https://github.com/wavedrom/wavedrom) [example1](https://observablehq.com/@drom/risc-v-v-opcodes?collection=@drom/wavedrom) [example2](https://observablehq.com/@drom/risc-v-spec-diagrams?collection=@drom/wavedrom#cell-717) 
   - Modules can provide external connections to interactively read and write those registers with internal or external hardware
 - future core ideas
   - extent the view and seach to modify the RDL files
